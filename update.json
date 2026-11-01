@@ -1,6 +1,6 @@
 {
-  "version": "12.25.1-zh20",
-  "build": 20,
-  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh20/PrinterShare-zh20-signed.apk",
-  "notes": "更新内容：\n1. 修复检测更新时约 3 秒即提示失败的问题，更新源改为国内可达性更好的镜像\n2. 单个源超时降到 3 秒，四个源依次尝试\n3. 失败提示按原因区分：连不上 / 服务器异常 / 数据格式异常\n4. 兜底定时器放宽到 20 秒\n5. 双面打印、界面汉化、高级功能解锁等既有功能保持不变"
+  "version": "12.25.1-zh21",
+  "build": 21,
+  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh21/PrinterShare-zh21-signed.apk",
+  "notes": "更新内容：\n1. 修复提示「更新数据格式异常」的问题：改用浏览器 UA、禁用压缩、解析前清洗响应内容\n2. 空响应与带噪声的响应不再导致解析失败\n3. 失败弹窗会附带服务器实际返回的内容片段，便于定位\n4. 「已是最新」改为显示本地版本号\n5. 双面打印、界面汉化、高级功能解锁等既有功能保持不变"
 }
