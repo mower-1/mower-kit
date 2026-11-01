@@ -1,0 +1,6 @@
+{
+  "version": "12.25.1-zh17",
+  "build": 17,
+  "url": "https://github.com/USER/REPO/releases/download/zh17/PrinterShare-zh17-signed.apk",
+  "notes": "更新内容：\n1. 修复双面打印在部分机型上的显示异常\n2. 补充界面汉化文本\n3. 优化更新检测的失败提示"
+}
