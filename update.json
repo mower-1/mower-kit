@@ -1,6 +1,0 @@
-{
-  "version": "12.25.1-zh2",
-  "build": 2,
-  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh2/PrinterShare-zh2-signed.apk",
-  "notes": "更新内容：\n1. 界面完整汉化，高级功能解锁\n2. 打印对话框新增双面打印（奇数面/偶数面自动填充范围）\n3. 主界面菜单新增检测改版更新\n4. 关于页面标注修改者"
-}
