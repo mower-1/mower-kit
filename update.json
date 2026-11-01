@@ -1,6 +1,6 @@
 {
-  "version": "12.25.1-zh16",
-  "build": 16,
-  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh16/PrinterShare-zh16-final.apk",
-  "notes": "更新内容：\n1. 新增双面打印功能（打印奇数面 / 打印偶数面）\n2. 范围框支持手动修改，改动后自动退出双面模式\n3. 界面汉化与高级功能解锁\n4. 内置更新检测（本版本起生效）"
+  "version": "12.25.1-zh17",
+  "build": 17,
+  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh17/PrinterShare-zh17-signed.apk",
+  "notes": "更新内容：\n1. 主界面右上角菜单新增「检测改版更新」，可手动检查并跳转下载\n2. 启动时自动检查（12 小时内不重复请求）\n3. 双面打印、界面汉化、高级功能解锁等既有功能保持不变"
 }
