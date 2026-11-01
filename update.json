@@ -1,6 +1,6 @@
 {
-  "version": "12.25.1-zh21",
-  "build": 21,
-  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh21/PrinterShare-zh21-signed.apk",
-  "notes": "更新内容：\n1. 修复提示「更新数据格式异常」的问题：改用浏览器 UA、禁用压缩、解析前清洗响应内容\n2. 空响应与带噪声的响应不再导致解析失败\n3. 失败弹窗会附带服务器实际返回的内容片段，便于定位\n4. 「已是最新」改为显示本地版本号\n5. 双面打印、界面汉化、高级功能解锁等既有功能保持不变"
+  "version": "12.25.1-zh22",
+  "build": 22,
+  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh22/PrinterShare-zh22-signed.apk",
+  "notes": "更新内容：\n1. 修复「更新数据格式异常」问题，更新清单改为纯文本竖线格式\n2. 不再依赖 JSON 解析器\n3. 双面打印、界面汉化、高级功能解锁等既有功能保持不变"
 }
