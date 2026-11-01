@@ -1,6 +1,6 @@
 {
-  "version": "12.25.1-zh17",
-  "build": 17,
-  "url": "https://github.com/USER/REPO/releases/download/zh17/PrinterShare-zh17-signed.apk",
-  "notes": "更新内容：\n1. 修复双面打印在部分机型上的显示异常\n2. 补充界面汉化文本\n3. 优化更新检测的失败提示"
+  "version": "12.25.1-zh16",
+  "build": 16,
+  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh16/PrinterShare-zh16-final.apk",
+  "notes": "更新内容：\n1. 新增双面打印功能（打印奇数面 / 打印偶数面）\n2. 范围框支持手动修改，改动后自动退出双面模式\n3. 界面汉化与高级功能解锁\n4. 内置更新检测（本版本起生效）"
 }
