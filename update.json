@@ -1,6 +1,6 @@
 {
-  "version": "12.25.1-zh23",
-  "build": 23,
-  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh23/PrinterShare-zh23-signed.apk",
-  "notes": "更新内容：\n1. 关于页面新增修改者署名\n2. 检测更新使用纯文本清单，不再依赖 JSON 解析\n3. 双面打印、界面汉化、高级功能解锁等既有功能保持不变"
+  "version": "12.25.1-zh24",
+  "build": 24,
+  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh24/PrinterShare-zh24-signed.apk",
+  "notes": "更新内容：\n1. 关于页署名移到版权行下方，改为运行时解码生成\n2. 检测更新使用纯文本清单\n3. 双面打印、界面汉化、高级功能解锁等既有功能保持不变"
 }
