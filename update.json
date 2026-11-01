@@ -1,6 +1,6 @@
 {
-  "version": "12.25.1-zh17",
-  "build": 17,
-  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh17/PrinterShare-zh17-signed.apk",
-  "notes": "更新内容：\n1. 主界面右上角菜单新增「检测改版更新」，可手动检查并跳转下载\n2. 启动时自动检查（12 小时内不重复请求）\n3. 双面打印、界面汉化、高级功能解锁等既有功能保持不变"
+  "version": "12.25.1-zh18",
+  "build": 18,
+  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh18/PrinterShare-zh18-signed.apk",
+  "notes": "更新内容：\n1. 修复点击「检测改版更新」后没有任何反馈的问题（现在会先提示“正在检查更新”）\n2. 更新源改为 jsDelivr 优先、GitHub Pages 兜底，改善国内网络可达性\n3. 双面打印、界面汉化、高级功能解锁等既有功能保持不变"
 }
