@@ -1,1 +1,0 @@
-2|12.25.1-zh2|https://github.com/mower-1/mower-kit/releases/download/zh2/PrinterShare-zh2-signed.apk|更新内容：1. 界面完整汉化，高级功能解锁 2. 打印对话框新增双面打印（奇数面/偶数面自动填充范围） 3. 主界面菜单新增检测改版更新 4. 关于页面标注修改者
