@@ -1,6 +1,6 @@
 {
-  "version": "12.25.1-zh18",
-  "build": 18,
-  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh18/PrinterShare-zh18-signed.apk",
-  "notes": "更新内容：\n1. 修复点击「检测改版更新」后没有任何反馈的问题（现在会先提示“正在检查更新”）\n2. 更新源改为 jsDelivr 优先、GitHub Pages 兜底，改善国内网络可达性\n3. 双面打印、界面汉化、高级功能解锁等既有功能保持不变"
+  "version": "12.25.1-zh19",
+  "build": 19,
+  "url": "https://github.com/mower-1/printershare-zh/releases/download/zh19/PrinterShare-zh19-signed.apk",
+  "notes": "更新内容：\n1. 修复点击「检测改版更新」后长时间无任何反馈的问题（域名解析阻塞时连超时都不会触发）\n2. 新增 15 秒兜底：无论网络状况如何，到点都会给出结果或超时提示\n3. 单个更新源超时降到 5 秒，请求异常时立即提示失败\n4. 双面打印、界面汉化、高级功能解锁等既有功能保持不变"
 }
